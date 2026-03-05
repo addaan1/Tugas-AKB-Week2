@@ -68,29 +68,6 @@ Berisi:
 - Dua tabel komparatif yang mendukung framing
 - Satu paragraf interpretasi: **"Apa bukti paling substansial yang mendasari pilihan framing?"**
 
-## 📁 Struktur Proyek
-```
-Analisis-Keputusan-Bisnis/
-├── README.md                    # Penjelasan tugas (file ini)
-├── data/                        # Folder untuk data mentah
-│   ├── raw/                     # Data asli dari dataset
-│   └── processed/               # Data yang sudah diolah
-├── notebooks/                   # Notebook analisis (Jupyter/Python)
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_business_framing.ipynb
-│   └── 03_analysis_results.ipynb
-├── src/                         # Kode sumber Python
-│   ├── data_preprocessing.py
-│   ├── analysis_functions.py
-│   └── visualization.py
-├── reports/                     # Laporan dan presentasi
-│   ├── decision_memorandum.md
-│   └── appendix_evidence.md
-└── results/                     # Hasil analisis (grafik, tabel)
-    ├── figures/
-    └── tables/
-```
-
 ## 🛠️ Teknologi yang Digunakan
 - **Python 3.x** dengan library:
   - Pandas (manipulasi data)
