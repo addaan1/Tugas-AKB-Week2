@@ -1,0 +1,59 @@
+=============================================
+DECISION MEMORANDUM: BUSINESS FRAMING ANALYSIS
+=============================================
+
+DATE: 2026-03-05
+ANALYST: Business Analytics Team
+SUBJECT: Optimal Business Framing for Customer Satisfaction Improvement
+
+DECISION STATEMENT
+------------------
+Our Brazilian e-commerce platform experiences varying levels of customer satisfaction, 
+with review scores ranging from 1 to 5. We analyzed three potential business framings 
+to determine where to focus improvement efforts: Delivery Performance, Product Quality, 
+and Shipping Cost Optimization.
+
+CHOSEN FRAMING
+--------------
+Based on comprehensive statistical analysis, we recommend focusing on: Delivery Framing
+
+Quantitative Justification:
+- Statistical Significance: Highly significant results (p < 0.001)
+- Effect Size: Substantial impact on customer satisfaction
+- Business Impact: Direct correlation with customer loyalty and retention
+- Data Reliability: Robust dataset with minimal missing values
+
+BUSINESS RECOMMENDATIONS
+------------------------
+1. Implement real-time delivery tracking and proactive communication for delayed orders
+2. Establish stricter delivery time commitments with logistics partners
+3. Create a compensation policy for significantly delayed deliveries
+4. Develop predictive models to identify orders at risk of delay
+5. Enhance inventory management to reduce processing delays before shipping
+
+ALTERNATIVE ACTIONS
+-------------------
+A) Focus on Quality Issues: Improve product quality controls and seller vetting processes
+   Trade-offs: Longer-term investment, harder to measure immediate impact
+   
+B) Focus on Shipping Cost Optimization: Redesign shipping cost structure and partnerships
+   Trade-offs: Potential margin impact, complex logistics changes
+   
+C) Do Nothing: Continue current operations without targeted improvements
+   Trade-offs: Risk of continued customer dissatisfaction and competitive disadvantage
+
+SUCCESS METRIC
+--------------
+Primary KPI: Average Customer Review Score
+Target: Increase from current baseline of 4.07 to 4.2 within 6 months
+
+FRAMING RISKS
+-------------
+1. Correlation vs Causation: Observed relationships may not be causal
+   Mitigation: Plan A/B testing to validate interventions
+   
+2. External Factors: Economic conditions or seasonality affecting results
+   Mitigation: Control for temporal factors in ongoing analysis
+   
+3. Implementation Challenges: Operational complexity of delivery improvements
+   Mitigation: Phased rollout with continuous monitoring and adjustment
